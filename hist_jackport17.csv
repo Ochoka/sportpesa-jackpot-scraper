@@ -1,0 +1,477 @@
+jackpotId,eventNumber,kickoffTime,competitorHome,competitorAway,resultPick,score
+4659b984-28ea-430f-a1cc-29cd015dec90,1,2023-01-28T15:00:00Z,Hull City,Queens Park Rangers,Home,3:0
+4659b984-28ea-430f-a1cc-29cd015dec90,2,2023-01-28T15:00:00Z,Blackburn Rovers,Birmingham City,Draw,2:2
+4659b984-28ea-430f-a1cc-29cd015dec90,3,2023-01-28T20:00:00Z,Getafe CF,Real Betis Seville,Away,0:1
+4659b984-28ea-430f-a1cc-29cd015dec90,4,2023-01-29T11:15:00Z,FC Twente Enschede,Feyenoord Rotterdam,Draw,1:1
+4659b984-28ea-430f-a1cc-29cd015dec90,5,2023-01-29T12:00:00Z,OGC Nice,Lille OSC,Home,1:0
+4659b984-28ea-430f-a1cc-29cd015dec90,6,2023-01-29T12:30:00Z,RSC Anderlecht,Royal Antwerp FC,Draw,0:0
+4659b984-28ea-430f-a1cc-29cd015dec90,7,2023-01-29T13:00:00Z,Real Valladolid,Valencia CF,Home,1:0
+4659b984-28ea-430f-a1cc-29cd015dec90,8,2023-01-29T13:30:00Z,Brighton & Hove Albion,Liverpool FC,Home,2:1
+4659b984-28ea-430f-a1cc-29cd015dec90,9,2023-01-29T14:00:00Z,AJ Auxerre,Montpellier HSC,Away,0:2
+4659b984-28ea-430f-a1cc-29cd015dec90,10,2023-01-29T14:00:00Z,Clermont Foot 63,FC Nantes,Draw,0:0
+4659b984-28ea-430f-a1cc-29cd015dec90,11,2023-01-29T14:30:00Z,Schalke 04,1. FC Cologne,Draw,0:0
+4659b984-28ea-430f-a1cc-29cd015dec90,12,2023-01-29T15:00:00Z,Cercle Brugge,KAA Gent,Home,3:2
+4659b984-28ea-430f-a1cc-29cd015dec90,13,2023-01-29T15:15:00Z,CA Osasuna,Atletico Madrid,Away,0:1
+4659b984-28ea-430f-a1cc-29cd015dec90,14,2023-01-29T15:45:00Z,SC Cambuur,Fortuna Sittard,Away,1:2
+4659b984-28ea-430f-a1cc-29cd015dec90,15,2023-01-29T16:30:00Z,Bayer Leverkusen,Borussia Dortmund,Away,0:2
+4659b984-28ea-430f-a1cc-29cd015dec90,16,2023-01-29T17:30:00Z,RC Celta de Vigo,Athletic Bilbao,Home,1:0
+4659b984-28ea-430f-a1cc-29cd015dec90,17,2023-01-29T18:00:00Z,Boavista Porto,Portimonense SC,Home,4:2
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,1,2023-01-21T15:00:00Z,AFC Bournemouth,Nottingham Forest,Draw,1:1
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,2,2023-01-21T15:00:00Z,Southampton FC,Aston Villa,Away,0:1
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,3,2023-01-21T15:00:00Z,Birmingham City,Preston North End,Away,1:2
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,4,2023-01-21T15:00:00Z,Blackpool,Huddersfield Town,Draw,PD:X
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,5,2023-01-21T15:00:00Z,Cardiff City,Millwall FC,Away,0:1
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,6,2023-01-21T15:00:00Z,Queens Park Rangers,Swansea City,Draw,1:1
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,7,2023-01-21T15:00:00Z,Wigan Athletic,Luton Town,Away,0:2
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,8,2023-01-21T15:15:00Z,Espanyol Barcelona,Real Betis Seville,Home,1:0
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,9,2023-01-21T19:00:00Z,SC Cambuur,Sparta Rotterdam,Away,0:3
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,10,2023-01-21T20:00:00Z,RKC Waalwijk,Go Ahead Eagles,Away,PD:2
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,11,2023-01-22T10:30:00Z,Gaziantep FK,Sivasspor,Away,1:2
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,12,2023-01-22T12:00:00Z,Sunderland AFC,Middlesbrough FC,Home,2:0
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,13,2023-01-22T13:30:00Z,Feyenoord Rotterdam,Ajax Amsterdam,Draw,1:1
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,14,2023-01-22T14:00:00Z,Leeds United,Brentford FC,Draw,0:0
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,15,2023-01-22T14:00:00Z,AC Monza,Sassuolo Calcio,Draw,1:1
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,16,2023-01-22T15:30:00Z,Maritimo Madeira,Estoril Praia,Home,1:0
+b5f8ba2e-4a6b-444c-bfd0-35a93da440e4,17,2023-01-22T16:30:00Z,Borussia Monchengladbach,Bayer Leverkusen,Away,2:3
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,1,2023-01-14T15:00:00Z,Nottingham Forest,Leicester City,Home,2:0
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,2,2023-01-14T15:00:00Z,Wolverhampton Wanderers,West Ham United,Home,1:0
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,3,2023-01-14T15:00:00Z,Luton Town,West Bromwich Albion,Away,2:3
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,4,2023-01-14T15:00:00Z,Preston North End,Norwich City,Away,0:4
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,5,2023-01-14T15:00:00Z,Reading FC,Queens Park Rangers,Draw,2:2
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,6,2023-01-14T15:00:00Z,Sunderland AFC,Swansea City,Away,1:3
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,7,2023-01-14T16:00:00Z,DR Congo,Uganda,Draw,0:0
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,8,2023-01-14T15:15:00Z,Girona FC,Sevilla FC,Home,2:1
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,9,2023-01-14T17:15:00Z,KAS Eupen,St. Truidense VV,Away,0:2
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,10,2023-01-14T17:45:00Z,FC Volendam,RKC Waalwijk,Home,2:1
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,11,2023-01-14T19:00:00Z,Ivory Coast,Senegal,Away,0:1
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,12,2023-01-14T20:00:00Z,Real Sociedad San Sebastian,Athletic Bilbao,Home,3:1
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,13,2023-01-15T13:00:00Z,Getafe CF,Espanyol Barcelona,Away,1:2
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,14,2023-01-15T13:30:00Z,Go Ahead Eagles,FC Utrecht,Draw,2:2
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,15,2023-01-15T14:00:00Z,Angers SCO,Clermont Foot 63,Away,1:2
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,16,2023-01-15T14:00:00Z,Montpellier HSC,FC Nantes,Away,0:3
+27ecca38-a32f-4ca2-9741-86c99b5edc0d,17,2023-01-15T14:00:00Z,Stade Reims,OGC Nice,Draw,0:0
+854f2fa8-b674-4655-8e88-baf49fca1ac6,1,2023-01-07T15:00:00Z,KAS Eupen,Royal Charleroi SC,Away,1:2
+854f2fa8-b674-4655-8e88-baf49fca1ac6,2,2023-01-07T15:00:00Z,Millwall FC,Sheffield United,Away,0:2
+854f2fa8-b674-4655-8e88-baf49fca1ac6,3,2023-01-07T15:00:00Z,AFC Bournemouth,Burnley FC,Away,2:4
+854f2fa8-b674-4655-8e88-baf49fca1ac6,4,2023-01-07T15:00:00Z,Cambridge United,Bristol Rovers,Away,1:2
+854f2fa8-b674-4655-8e88-baf49fca1ac6,5,2023-01-07T15:00:00Z,Morecambe FC,Cheltenham Town,Home,2:1
+854f2fa8-b674-4655-8e88-baf49fca1ac6,6,2023-01-07T15:30:00Z,RKC Waalwijk,SC Heerenveen,Draw,0:0
+854f2fa8-b674-4655-8e88-baf49fca1ac6,7,2023-01-07T17:30:00Z,Brentford FC,West Ham United,Away,0:1
+854f2fa8-b674-4655-8e88-baf49fca1ac6,8,2023-01-07T19:00:00Z,Fortuna Sittard,Go Ahead Eagles,Away,0:2
+854f2fa8-b674-4655-8e88-baf49fca1ac6,9,2023-01-07T19:45:00Z,Royal Antwerp FC,KAA Gent,Home,2:0
+854f2fa8-b674-4655-8e88-baf49fca1ac6,10,2023-01-07T20:00:00Z,Espanyol Barcelona,Girona FC,Draw,2:2
+854f2fa8-b674-4655-8e88-baf49fca1ac6,11,2023-01-08T11:30:00Z,US Salernitana,Torino FC,Draw,1:1
+854f2fa8-b674-4655-8e88-baf49fca1ac6,12,2023-01-08T12:30:00Z,Bristol City,Swansea City,Draw,1:1
+854f2fa8-b674-4655-8e88-baf49fca1ac6,13,2023-01-08T14:00:00Z,Spezia Calcio,US Lecce,Draw,0:0
+854f2fa8-b674-4655-8e88-baf49fca1ac6,14,2023-01-08T15:00:00Z,SV Zulte Waregem,Yellow-Red KV Mechelen,Home,2:0
+854f2fa8-b674-4655-8e88-baf49fca1ac6,15,2023-01-08T15:30:00Z,FC Pacos Ferreira,GD Chaves,Draw,1:1
+854f2fa8-b674-4655-8e88-baf49fca1ac6,16,2023-01-08T15:45:00Z,Excelsior Rotterdam,FC Groningen,Home,1:0
+854f2fa8-b674-4655-8e88-baf49fca1ac6,17,2023-01-08T16:00:00Z,Fenerbahce Istanbul,Galatasaray Istanbul,Away,0:3
+528371ab-d123-4978-a136-383eb6c99da0,1,2022-12-31T15:00:00Z,AFC Bournemouth,Crystal Palace,Away,0:2
+528371ab-d123-4978-a136-383eb6c99da0,2,2022-12-31T15:30:00Z,Hapoel Tel Aviv FC,Maccabi Netanya FC,Draw,1:1
+528371ab-d123-4978-a136-383eb6c99da0,3,2022-12-31T15:30:00Z,Sekhukhune United,AmaZulu FC,Draw,0:0
+528371ab-d123-4978-a136-383eb6c99da0,4,2022-12-31T16:00:00Z,Bnei Sakhnin FC,Hapoel Haifa FC,Away,1:2
+528371ab-d123-4978-a136-383eb6c99da0,5,2022-12-31T17:10:00Z,FC Ashdod,Hapoel Jerusalem FC,Draw,1:1
+528371ab-d123-4978-a136-383eb6c99da0,6,2023-01-01T12:00:00Z,Blackburn Rovers,Cardiff City,Home,1:0
+528371ab-d123-4978-a136-383eb6c99da0,7,2023-01-01T14:00:00Z,Angers SCO,FC Lorient,Away,1:2
+528371ab-d123-4978-a136-383eb6c99da0,8,2023-01-01T15:00:00Z,Hartlepool United,Harrogate Town,Draw,3:3
+528371ab-d123-4978-a136-383eb6c99da0,9,2023-01-01T15:00:00Z,Walsall FC,Mansfield Town,Home,2:1
+528371ab-d123-4978-a136-383eb6c99da0,10,2023-01-01T15:00:00Z,Huddersfield Town,Luton Town,Away,1:2
+528371ab-d123-4978-a136-383eb6c99da0,11,2023-01-01T15:00:00Z,Blackpool,Sunderland AFC,Draw,1:1
+528371ab-d123-4978-a136-383eb6c99da0,12,2023-01-01T15:00:00Z,Morecambe FC,Burton Albion,Home,5:0
+528371ab-d123-4978-a136-383eb6c99da0,13,2023-01-01T15:00:00Z,Colchester United,Swindon Town,Home,1:0
+528371ab-d123-4978-a136-383eb6c99da0,14,2023-01-01T15:00:00Z,Crewe Alexandra,Tranmere Rovers FC,Home,1:0
+528371ab-d123-4978-a136-383eb6c99da0,15,2023-01-01T15:00:00Z,Doncaster Rovers,Carlisle United,Home,2:1
+528371ab-d123-4978-a136-383eb6c99da0,16,2023-01-01T15:00:00Z,Grimsby Town,Stockport County FC,Home,1:0
+528371ab-d123-4978-a136-383eb6c99da0,17,2023-01-01T17:00:00Z,Hapoel Hadera FC,Maccabi Bney Reine,Draw,2:2
+ccc92230-e56a-48fc-982d-f884430d52e1,1,2022-12-26T15:00:00Z,Everton FC,Wolverhampton Wanderers,Away,1:2
+ccc92230-e56a-48fc-982d-f884430d52e1,2,2022-12-26T15:00:00Z,Bristol City,West Bromwich Albion,Away,0:2
+ccc92230-e56a-48fc-982d-f884430d52e1,3,2022-12-26T15:00:00Z,Rotherham United,Stoke City,Draw,2:2
+ccc92230-e56a-48fc-982d-f884430d52e1,4,2022-12-26T15:00:00Z,Burton Albion,Lincoln City,Home,3:0
+ccc92230-e56a-48fc-982d-f884430d52e1,5,2022-12-26T15:00:00Z,Cambridge United,Shrewsbury Town,Home,2:1
+ccc92230-e56a-48fc-982d-f884430d52e1,6,2022-12-26T15:00:00Z,Charlton Athletic,Peterborough United,Draw,1:1
+ccc92230-e56a-48fc-982d-f884430d52e1,7,2022-12-26T15:00:00Z,Exeter City,Portsmouth FC,Draw,0:0
+ccc92230-e56a-48fc-982d-f884430d52e1,8,2022-12-26T16:00:00Z,FC Annecy,AS Saint-Etienne,Home,2:1
+ccc92230-e56a-48fc-982d-f884430d52e1,9,2022-12-26T17:00:00Z,Goztepe Izmir,BB Bodrumspor,Away,0:1
+ccc92230-e56a-48fc-982d-f884430d52e1,10,2022-12-26T17:15:00Z,Cardiff City,Queens Park Rangers,Draw,0:0
+ccc92230-e56a-48fc-982d-f884430d52e1,11,2022-12-26T19:45:00Z,Luton Town,Norwich City,Home,2:1
+ccc92230-e56a-48fc-982d-f884430d52e1,12,2022-12-26T19:45:00Z,Royal Charleroi SC,RSC Anderlecht,Away,0:1
+ccc92230-e56a-48fc-982d-f884430d52e1,13,2022-12-26T20:00:00Z,Quevilly-Rouen Metropole,Grenoble Foot,Home,2:0
+ccc92230-e56a-48fc-982d-f884430d52e1,14,2022-12-26T20:00:00Z,SC Bastia,SM Caen,Home,1:0
+ccc92230-e56a-48fc-982d-f884430d52e1,15,2022-12-26T20:00:00Z,Nimes Olympique,EA Guingamp,Away,1:2
+ccc92230-e56a-48fc-982d-f884430d52e1,16,2022-12-26T20:00:00Z,Pau FC,Paris FC,Away,0:1
+ccc92230-e56a-48fc-982d-f884430d52e1,17,2022-12-26T20:00:00Z,Valenciennes FC,Amiens SC,Draw,1:1
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,1,2022-12-17T16:30:00Z,Aquila Montevarchi,Rimini FC 1912,Away,0:1
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,2,2022-12-17T16:30:00Z,Olbia Calcio,Lucchese Libertas 1905,Draw,1:1
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,3,2022-12-17T17:00:00Z,SC Pisa,Brescia Calcio,Home,3:0
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,4,2022-12-17T17:00:00Z,Akritas Chlorakas,Nea Salamina Famagusta,Away,1:2
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,5,2022-12-17T18:30:00Z,Beitar Jerusalem FC,Maccabi Netanya FC,Home,6:3
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,6,2022-12-17T19:00:00Z,Estrela Amadora,FC Penafiel,Draw,1:1
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,7,2022-12-17T19:30:00Z,Reggina 1914,SSC Bari,Draw,0:0
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,8,2022-12-17T20:00:00Z,Real Oviedo,Sporting Gijon,Home,1:0
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,9,2022-12-18T04:00:00Z,Western United FC,Western Sydney Wanderers,Home,1:0
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,10,2022-12-18T10:30:00Z,Bandirmaspor,Pendikspor,Home,1:0
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,11,2022-12-18T11:00:00Z,CD Atletico Baleares,Real Murcia CF,Away,0:3
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,12,2022-12-18T11:30:00Z,Turris Calcio,Calcio Foggia,Away,1:2
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,13,2022-12-18T12:45:00Z,AO Egaleo 1931 PAE,Chania FC,Draw,0:0
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,14,2022-12-18T13:00:00Z,Cosenza Calcio,Ascoli Calcio 1898,Away,1:3
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,15,2022-12-18T13:00:00Z,Modena FC,Benevento Calcio,Draw,1:1
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,16,2022-12-18T17:45:00Z,Palermo FC,Cagliari Calcio,Home,2:1
+6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5,17,2022-12-18T18:00:00Z,Burgos CF,SD Huesca,Draw,1:1
+7abcefdb-6367-41d0-902a-63fbf9fe148c,1,2023-02-25T15:00:00Z,Everton FC,Aston Villa,Away,0:2
+7abcefdb-6367-41d0-902a-63fbf9fe148c,2,2023-02-25T15:00:00Z,Birmingham City,Luton Town,Away,0:1
+7abcefdb-6367-41d0-902a-63fbf9fe148c,3,2023-02-25T15:00:00Z,Bristol City,Hull City,Home,1:0
+7abcefdb-6367-41d0-902a-63fbf9fe148c,4,2023-02-25T15:00:00Z,Queens Park Rangers,Blackburn Rovers,Away,1:3
+7abcefdb-6367-41d0-902a-63fbf9fe148c,5,2023-02-25T15:00:00Z,Stoke City,Millwall FC,Away,0:1
+7abcefdb-6367-41d0-902a-63fbf9fe148c,6,2023-02-25T15:00:00Z,West Bromwich Albion,Middlesbrough FC,Home,2:0
+7abcefdb-6367-41d0-902a-63fbf9fe148c,7,2023-02-25T15:15:00Z,Cadiz CF,Rayo Vallecano,Home,1:0
+7abcefdb-6367-41d0-902a-63fbf9fe148c,8,2023-02-25T17:30:00Z,Schalke 04,VfB Stuttgart,Home,2:1
+7abcefdb-6367-41d0-902a-63fbf9fe148c,9,2023-02-25T18:00:00Z,Maritimo Madeira,Santa Clara Azores,Home,3:1
+7abcefdb-6367-41d0-902a-63fbf9fe148c,10,2023-02-25T19:45:00Z,US Lecce,Sassuolo Calcio,Away,0:1
+7abcefdb-6367-41d0-902a-63fbf9fe148c,11,2023-02-25T20:00:00Z,Valencia CF,Real Sociedad San Sebastian,Home,1:0
+7abcefdb-6367-41d0-902a-63fbf9fe148c,12,2023-02-26T13:30:00Z,Tottenham Hotspur,Chelsea FC,Home,2:0
+7abcefdb-6367-41d0-902a-63fbf9fe148c,13,2023-02-26T14:00:00Z,FC Nantes,Stade Rennes,Away,0:1
+7abcefdb-6367-41d0-902a-63fbf9fe148c,14,2023-02-26T14:00:00Z,Clermont Foot 63,Strasbourg Alsace,Draw,1:1
+7abcefdb-6367-41d0-902a-63fbf9fe148c,15,2023-02-26T14:30:00Z,SC Freiburg,Bayer Leverkusen,Draw,1:1
+7abcefdb-6367-41d0-902a-63fbf9fe148c,16,2023-02-26T15:30:00Z,Rio Ave FC,GD Chaves,Home,1:0
+7abcefdb-6367-41d0-902a-63fbf9fe148c,17,2023-02-26T15:30:00Z,FC Lugano,FC Basel 1893,Draw,2:2
+8d06c34b-9c78-4645-a6ff-b51de278f506,1,2023-02-18T15:00:00Z,Huddersfield Town,Birmingham City,Home,2:1
+8d06c34b-9c78-4645-a6ff-b51de278f506,2,2023-02-18T15:00:00Z,Hull City,Preston North End,Draw,0:0
+8d06c34b-9c78-4645-a6ff-b51de278f506,3,2023-02-18T15:00:00Z,Blackpool,Stoke City,Home,1:0
+8d06c34b-9c78-4645-a6ff-b51de278f506,4,2023-02-18T15:00:00Z,Everton FC,Leeds United,Home,1:0
+8d06c34b-9c78-4645-a6ff-b51de278f506,5,2023-02-18T18:00:00Z,Portimonense SC,Maritimo Madeira,Home,2:1
+8d06c34b-9c78-4645-a6ff-b51de278f506,6,2023-02-18T17:00:00Z,FC Winterthur,FC Sion,Draw,1:1
+8d06c34b-9c78-4645-a6ff-b51de278f506,7,2023-02-18T17:30:00Z,RCD Mallorca,Villarreal CF,Home,4:2
+8d06c34b-9c78-4645-a6ff-b51de278f506,8,2023-02-18T17:30:00Z,Newcastle United,Liverpool FC,Away,0:2
+8d06c34b-9c78-4645-a6ff-b51de278f506,9,2023-02-18T17:30:00Z,CD Leganes,UD Las Palmas,Draw,0:0
+8d06c34b-9c78-4645-a6ff-b51de278f506,10,2023-02-18T17:45:00Z,FC Groningen,FC Emmen,Draw,1:1
+8d06c34b-9c78-4645-a6ff-b51de278f506,11,2023-02-19T11:15:00Z,SC Cambuur,SC Heerenveen,Away,1:2
+8d06c34b-9c78-4645-a6ff-b51de278f506,12,2023-02-19T12:00:00Z,Motherwell FC,Heart of Midlothian FC,Home,2:0
+8d06c34b-9c78-4645-a6ff-b51de278f506,13,2023-02-19T13:00:00Z,Elche CF,Espanyol Barcelona,Away,0:1
+8d06c34b-9c78-4645-a6ff-b51de278f506,14,2023-02-19T13:00:00Z,SD Huesca,Granada CF,Draw,1:1
+8d06c34b-9c78-4645-a6ff-b51de278f506,15,2023-02-19T14:00:00Z,ESTAC Troyes,Montpellier HSC,Away,0:1
+8d06c34b-9c78-4645-a6ff-b51de278f506,16,2023-02-19T15:15:00Z,Rayo Vallecano,Sevilla FC,Draw,1:1
+8d06c34b-9c78-4645-a6ff-b51de278f506,17,2023-02-19T15:30:00Z,Santa Clara Azores,FC Famalicao,Away,1:3
+efc5378d-56e7-460e-a00c-69367bbca0a1,1,2023-02-11T15:00:00Z,Southampton FC,Wolverhampton Wanderers,Away,1:2
+efc5378d-56e7-460e-a00c-69367bbca0a1,2,2023-02-11T15:00:00Z,KVC Westerlo,KAA Gent,Draw,3:3
+efc5378d-56e7-460e-a00c-69367bbca0a1,3,2023-02-11T15:15:00Z,UD Almeria,Real Betis Seville,Away,2:3
+efc5378d-56e7-460e-a00c-69367bbca0a1,4,2023-02-11T19:45:00Z,Lazio Rome,Atalanta BC,Away,0:2
+efc5378d-56e7-460e-a00c-69367bbca0a1,5,2023-02-11T20:00:00Z,Valencia CF,Athletic Bilbao,Away,1:2
+efc5378d-56e7-460e-a00c-69367bbca0a1,6,2023-02-12T06:00:00Z,Macarthur FC,Wellington Phoenix FC,Home,2:1
+efc5378d-56e7-460e-a00c-69367bbca0a1,7,2023-02-12T12:00:00Z,Toulouse FC,Stade Rennes,Home,3:1
+efc5378d-56e7-460e-a00c-69367bbca0a1,8,2023-02-12T13:00:00Z,Getafe CF,Rayo Vallecano,Draw,1:1
+efc5378d-56e7-460e-a00c-69367bbca0a1,9,2023-02-12T13:30:00Z,Vitesse Arnhem,FC Utrecht,Home,2:0
+efc5378d-56e7-460e-a00c-69367bbca0a1,10,2023-02-12T14:00:00Z,Angers SCO,AJ Auxerre,Draw,1:1
+efc5378d-56e7-460e-a00c-69367bbca0a1,11,2023-02-12T14:00:00Z,Montpellier HSC,Stade Brest 29,Home,3:0
+efc5378d-56e7-460e-a00c-69367bbca0a1,12,2023-02-12T14:30:00Z,Hertha BSC,Borussia Monchengladbach,Home,4:1
+efc5378d-56e7-460e-a00c-69367bbca0a1,13,2023-02-12T15:15:00Z,RC Celta de Vigo,Atletico Madrid,Away,0:1
+efc5378d-56e7-460e-a00c-69367bbca0a1,14,2023-02-12T16:30:00Z,1. FC Cologne,Eintracht Frankfurt,Home,3:0
+efc5378d-56e7-460e-a00c-69367bbca0a1,15,2023-02-12T17:30:00Z,Real Valladolid,CA Osasuna,Draw,0:0
+efc5378d-56e7-460e-a00c-69367bbca0a1,16,2023-02-12T18:00:00Z,Sporting Lisbon,FC Porto,Away,1:2
+efc5378d-56e7-460e-a00c-69367bbca0a1,17,2023-02-12T19:45:00Z,Olympique Lyon,RC Lens,Home,2:1
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,1,2023-02-04T15:00:00Z,Preston North End,Bristol City,Away,1:2
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,2,2023-02-04T15:00:00Z,Huddersfield Town,Queens Park Rangers,Draw,1:1
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,3,2023-02-04T15:00:00Z,Reading FC,Watford FC,Draw,2:2
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,4,2023-02-04T17:15:00Z,KAS Eupen,KVC Westerlo,Draw,1:1
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,5,2023-02-04T19:00:00Z,FC Emmen,Vitesse Arnhem,Draw,2:2
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,6,2023-02-04T20:00:00Z,Excelsior Rotterdam,RKC Waalwijk,Draw,0:0
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,7,2023-02-04T20:00:00Z,Stade Rennes,Lille OSC,Away,1:3
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,8,2023-02-04T20:30:00Z,Estoril Praia,Vitoria SC Guimaraes,Away,0:1
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,9,2023-02-05T00:30:00Z,Argentinos Juniors,Racing Club Avellaneda,Home,1:0
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,10,2023-02-05T00:30:00Z,Atletico Lanus,CA San Lorenzo de Almagro,Home,2:1
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,11,2023-02-05T12:30:00Z,Royal Antwerp FC,Club Brugge,Draw,0:0
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,12,2023-02-05T13:00:00Z,Villarreal CF B,Granada CF,Away,0:2
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,13,2023-02-05T13:15:00Z,FC Sion,FC Zurich,Away,0:1
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,14,2023-02-05T13:30:00Z,Go Ahead Eagles,NEC Nijmegen,Home,1:0
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,15,2023-02-05T14:00:00Z,Nottingham Forest,Leeds United,Home,1:0
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,16,2023-02-05T14:00:00Z,AC Ajaccio,FC Nantes,Away,0:2
+5b2009aa-199a-46b8-b4f3-6a1efb25cdfc,17,2023-02-05T14:00:00Z,Torino FC,Udinese Calcio,Home,1:0
+771b6dea-af7e-4a59-b633-4009d158d264,1,2023-03-25T15:00:00Z,Peterborough United,Derby County,Home,2:0
+771b6dea-af7e-4a59-b633-4009d158d264,2,2023-03-25T15:00:00Z,Doncaster Rovers,Northampton Town,Away,0:2
+771b6dea-af7e-4a59-b633-4009d158d264,3,2023-03-25T15:15:00Z,Racing Santander,Levante UD,Away,0:1
+771b6dea-af7e-4a59-b633-4009d158d264,4,2023-03-25T15:15:00Z,UD Ibiza,Burgos CF,Home,2:0
+771b6dea-af7e-4a59-b633-4009d158d264,5,2023-03-25T20:00:00Z,Bogota FC,Tigres FC,Away,0:1
+771b6dea-af7e-4a59-b633-4009d158d264,6,2023-03-25T20:30:00Z,Portland Timbers,Los Angeles Galaxy,Draw,0:0
+771b6dea-af7e-4a59-b633-4009d158d264,7,2023-03-25T23:30:00Z,Charlotte FC,New York Red Bulls,Draw,1:1
+771b6dea-af7e-4a59-b633-4009d158d264,8,2023-03-25T23:30:00Z,Columbus Crew,Atlanta United FC,Home,6:1
+771b6dea-af7e-4a59-b633-4009d158d264,9,2023-03-25T23:30:00Z,DC United,New England Revolution,Away,1:2
+771b6dea-af7e-4a59-b633-4009d158d264,10,2023-03-26T00:30:00Z,Houston Dynamo,New York City FC,Home,1:0
+771b6dea-af7e-4a59-b633-4009d158d264,11,2023-03-26T00:30:00Z,Sporting Kansas City,Seattle Sounders,Away,1:4
+771b6dea-af7e-4a59-b633-4009d158d264,12,2023-03-26T01:05:00Z,CF Correcaminos UAT,CD Mineros de Zacatecas,Home,1:0
+771b6dea-af7e-4a59-b633-4009d158d264,13,2023-03-26T03:05:00Z,Pumas de Tabasco,Raya2 Expansion,Away,1:3
+771b6dea-af7e-4a59-b633-4009d158d264,14,2023-03-26T05:00:00Z,Iwaki FC,Machida Zelvia,Away,0:1
+771b6dea-af7e-4a59-b633-4009d158d264,15,2023-03-26T12:30:00Z,FC Dordrecht,Helmond Sport,Draw,0:0
+771b6dea-af7e-4a59-b633-4009d158d264,16,2023-03-26T14:15:00Z,SD Ponferradina,CD Mirandes,Draw,0:0
+771b6dea-af7e-4a59-b633-4009d158d264,17,2023-03-26T14:15:00Z,Real Zaragoza,Albacete Balompie,Draw,1:1
+ef196740-44bb-489f-82cd-132247cf7e82,1,2023-03-18T15:00:00Z,Rotherham United,Cardiff City,Away,PD:2
+ef196740-44bb-489f-82cd-132247cf7e82,2,2023-03-18T15:00:00Z,Aberdeen FC,Heart of Midlothian FC,Home,3:0
+ef196740-44bb-489f-82cd-132247cf7e82,3,2023-03-18T15:00:00Z,Stoke City,Norwich City,Draw,0:0
+ef196740-44bb-489f-82cd-132247cf7e82,4,2023-03-18T15:15:00Z,Albacete Balompie,Granada CF,Away,1:2
+ef196740-44bb-489f-82cd-132247cf7e82,5,2023-03-18T15:30:00Z,Portimonense SC,FC Vizela,Away,0:1
+ef196740-44bb-489f-82cd-132247cf7e82,6,2023-03-18T17:30:00Z,Espanyol Barcelona,RC Celta de Vigo,Away,1:3
+ef196740-44bb-489f-82cd-132247cf7e82,7,2023-03-18T17:45:00Z,FC Emmen,Sparta Rotterdam,Away,0:2
+ef196740-44bb-489f-82cd-132247cf7e82,8,2023-03-18T18:00:00Z,Chamois Niort FC,Stade Lavallois MFC,Home,3:2
+ef196740-44bb-489f-82cd-132247cf7e82,9,2023-03-18T18:00:00Z,Quevilly-Rouen Metropole,FC Metz,Away,1:2
+ef196740-44bb-489f-82cd-132247cf7e82,10,2023-03-19T11:15:00Z,FC Groningen,SC Heerenveen,Away,0:2
+ef196740-44bb-489f-82cd-132247cf7e82,11,2023-03-19T11:30:00Z,Sampdoria Genoa,Hellas Verona,Home,3:1
+ef196740-44bb-489f-82cd-132247cf7e82,12,2023-03-19T12:30:00Z,Eintracht Braunschweig,Hannover 96,Home,1:0
+ef196740-44bb-489f-82cd-132247cf7e82,13,2023-03-19T13:30:00Z,Excelsior Rotterdam,SC Cambuur,Home,4:1
+ef196740-44bb-489f-82cd-132247cf7e82,14,2023-03-19T14:00:00Z,ESTAC Troyes,Stade Brest 29,Draw,2:2
+ef196740-44bb-489f-82cd-132247cf7e82,15,2023-03-19T15:15:00Z,CA Osasuna,Villarreal CF,Away,0:3
+ef196740-44bb-489f-82cd-132247cf7e82,16,2023-03-19T16:00:00Z,FK Austria Wien,SK Rapid Wien,Home,2:0
+ef196740-44bb-489f-82cd-132247cf7e82,17,2023-03-19T17:00:00Z,Lazio Rome,AS Roma,Home,1:0
+8e27e8de-8789-4675-baa9-9357b318f9a1,1,2023-03-11T15:00:00Z,Everton FC,Brentford FC,Home,1:0
+8e27e8de-8789-4675-baa9-9357b318f9a1,2,2023-03-11T15:00:00Z,Preston North End,Cardiff City,Home,2:0
+8e27e8de-8789-4675-baa9-9357b318f9a1,3,2023-03-11T15:00:00Z,Queens Park Rangers,Watford FC,Home,1:0
+8e27e8de-8789-4675-baa9-9357b318f9a1,4,2023-03-11T15:15:00Z,Elche CF,Real Valladolid,Draw,1:1
+8e27e8de-8789-4675-baa9-9357b318f9a1,5,2023-03-11T15:30:00Z,FC Pacos Ferreira,Santa Clara Azores,Home,1:0
+8e27e8de-8789-4675-baa9-9357b318f9a1,6,2023-03-11T17:15:00Z,KAS Eupen,KV Oostende,Draw,4:4
+8e27e8de-8789-4675-baa9-9357b318f9a1,7,2023-03-11T19:45:00Z,Bologna FC,Lazio Rome,Draw,0:0
+8e27e8de-8789-4675-baa9-9357b318f9a1,8,2023-03-11T20:00:00Z,Sparta Rotterdam,Vitesse Arnhem,Home,3:1
+8e27e8de-8789-4675-baa9-9357b318f9a1,9,2023-03-12T11:15:00Z,NEC Nijmegen,FC Utrecht,Draw,2:2
+8e27e8de-8789-4675-baa9-9357b318f9a1,10,2023-03-12T11:30:00Z,US Lecce,Torino FC,Away,0:2
+8e27e8de-8789-4675-baa9-9357b318f9a1,11,2023-03-12T13:00:00Z,RCD Mallorca,Real Sociedad San Sebastian,Draw,1:1
+8e27e8de-8789-4675-baa9-9357b318f9a1,12,2023-03-12T14:00:00Z,AC Ajaccio,Montpellier HSC,Away,0:1
+8e27e8de-8789-4675-baa9-9357b318f9a1,13,2023-03-12T14:00:00Z,FC Nantes,OGC Nice,Draw,2:2
+8e27e8de-8789-4675-baa9-9357b318f9a1,14,2023-03-12T14:00:00Z,Hellas Verona,AC Monza,Draw,1:1
+8e27e8de-8789-4675-baa9-9357b318f9a1,15,2023-03-12T15:30:00Z,Rio Ave FC,Gil Vicente Barcelos,Home,2:1
+8e27e8de-8789-4675-baa9-9357b318f9a1,16,2023-03-12T17:30:00Z,KRC Genk,Union Saint-Gilloise,Away,1:2
+8e27e8de-8789-4675-baa9-9357b318f9a1,17,2023-03-12T18:30:00Z,VfL Wolfsburg,Union Berlin,Draw,1:1
+93d34b56-5aa2-4f16-b17d-7feda25901f3,1,2023-03-04T17:30:00Z,Tenerife CD,SD Eibar,Away,0:1
+93d34b56-5aa2-4f16-b17d-7feda25901f3,2,2023-03-04T17:30:00Z,Southampton FC,Leicester City,Home,1:0
+93d34b56-5aa2-4f16-b17d-7feda25901f3,3,2023-03-04T17:45:00Z,FC Volendam,FC Emmen,Home,3:1
+93d34b56-5aa2-4f16-b17d-7feda25901f3,4,2023-03-04T19:45:00Z,Standard Liege,KVC Westerlo,Home,2:0
+93d34b56-5aa2-4f16-b17d-7feda25901f3,5,2023-03-04T19:45:00Z,ACF Fiorentina,AC Milan,Home,2:1
+93d34b56-5aa2-4f16-b17d-7feda25901f3,6,2023-03-04T20:00:00Z,CD Mirandes,Real Oviedo,Home,1:0
+93d34b56-5aa2-4f16-b17d-7feda25901f3,7,2023-03-05T11:30:00Z,Spezia Calcio,Hellas Verona,Draw,0:0
+93d34b56-5aa2-4f16-b17d-7feda25901f3,8,2023-03-05T12:30:00Z,Hansa Rostock,Karlsruher SC,Away,0:2
+93d34b56-5aa2-4f16-b17d-7feda25901f3,9,2023-03-05T13:00:00Z,Real Valladolid,Espanyol Barcelona,Home,2:1
+93d34b56-5aa2-4f16-b17d-7feda25901f3,10,2023-03-05T14:00:00Z,Nottingham Forest,Everton FC,Draw,2:2
+93d34b56-5aa2-4f16-b17d-7feda25901f3,11,2023-03-05T16:30:00Z,Liverpool FC,Manchester United,Home,7:0
+93d34b56-5aa2-4f16-b17d-7feda25901f3,12,2023-03-05T16:30:00Z,VfL Wolfsburg,Eintracht Frankfurt,Draw,2:2
+93d34b56-5aa2-4f16-b17d-7feda25901f3,13,2023-03-05T17:30:00Z,Rayo Vallecano,Athletic Bilbao,Draw,0:0
+93d34b56-5aa2-4f16-b17d-7feda25901f3,14,2023-03-05T18:00:00Z,Santa Clara Azores,Vitoria SC Guimaraes,Away,1:3
+93d34b56-5aa2-4f16-b17d-7feda25901f3,15,2023-03-05T19:00:00Z,SC Cambuur,Go Ahead Eagles,Home,4:1
+93d34b56-5aa2-4f16-b17d-7feda25901f3,16,2023-03-05T19:45:00Z,Stade Rennes,Olympique Marseille,Away,0:1
+93d34b56-5aa2-4f16-b17d-7feda25901f3,17,2023-03-05T19:45:00Z,AS Roma,Juventus Turin,Home,1:0
+a100d5d6-a648-41dc-bd63-a4735c354245,1,2023-04-29T16:00:00Z,AS Roma,AC Milan,Draw,1:1
+a100d5d6-a648-41dc-bd63-a4735c354245,2,2023-04-29T16:30:00Z,Schalke 04,Werder Bremen,Home,2:1
+a100d5d6-a648-41dc-bd63-a4735c354245,3,2023-04-29T17:00:00Z,Velez Sarsfield,CA San Lorenzo de Almagro,Draw,0:0
+a100d5d6-a648-41dc-bd63-a4735c354245,4,2023-04-29T18:30:00Z,Servette Geneva,FC St. Gallen 1879,Draw,1:1
+a100d5d6-a648-41dc-bd63-a4735c354245,5,2023-04-29T18:45:00Z,Torino FC,Atalanta BC,Away,1:2
+a100d5d6-a648-41dc-bd63-a4735c354245,6,2023-04-29T19:30:00Z,Gimnasia Y Esgrima La Plata,CA Tigre,Draw,1:1
+a100d5d6-a648-41dc-bd63-a4735c354245,7,2023-04-29T19:30:00Z,Coritiba FC PR,Sao Paulo FC SP,Draw,1:1
+a100d5d6-a648-41dc-bd63-a4735c354245,8,2023-04-29T19:30:00Z,Fortaleza EC CE,Fluminense FC RJ,Home,4:2
+a100d5d6-a648-41dc-bd63-a4735c354245,9,2023-04-30T11:00:00Z,Skovde AIK,IK Brage,Draw,0:0
+a100d5d6-a648-41dc-bd63-a4735c354245,10,2023-04-30T12:00:00Z,Cadiz CF,Valencia CF,Home,2:1
+a100d5d6-a648-41dc-bd63-a4735c354245,11,2023-04-30T12:30:00Z,Glasgow Rangers,Celtic Glasgow,Away,0:1
+a100d5d6-a648-41dc-bd63-a4735c354245,12,2023-04-30T13:00:00Z,AFC Bournemouth,Leeds United,Home,4:1
+a100d5d6-a648-41dc-bd63-a4735c354245,13,2023-04-30T13:00:00Z,Clermont Foot 63,Stade Reims,Home,1:0
+a100d5d6-a648-41dc-bd63-a4735c354245,14,2023-04-30T15:30:00Z,VfL Wolfsburg,FSV Mainz,Home,3:0
+a100d5d6-a648-41dc-bd63-a4735c354245,15,2023-04-30T16:00:00Z,Besiktas Istanbul,Galatasaray Istanbul,Home,3:1
+a100d5d6-a648-41dc-bd63-a4735c354245,16,2023-04-30T16:00:00Z,Ajax Amsterdam,PSV Eindhoven,Draw,1:1
+a100d5d6-a648-41dc-bd63-a4735c354245,17,2023-04-30T16:30:00Z,Espanyol Barcelona,Getafe CF,Home,1:0
+032ae1be-3b24-4ce4-b995-e562aa50e847,1,2023-04-22T14:00:00Z,Brentford FC,Aston Villa,Draw,1:1
+032ae1be-3b24-4ce4-b995-e562aa50e847,2,2023-04-22T14:00:00Z,Leicester City,Wolverhampton Wanderers,Home,2:1
+032ae1be-3b24-4ce4-b995-e562aa50e847,3,2023-04-22T16:30:00Z,Preston North End,Blackburn Rovers,Draw,1:1
+032ae1be-3b24-4ce4-b995-e562aa50e847,4,2023-04-22T18:00:00Z,FC Groningen,NEC Nijmegen,Away,0:1
+032ae1be-3b24-4ce4-b995-e562aa50e847,5,2023-04-22T18:45:00Z,Sampdoria Genoa,Spezia Calcio,Draw,1:1
+032ae1be-3b24-4ce4-b995-e562aa50e847,6,2023-04-23T07:00:00Z,Kawasaki Frontale,Urawa Red Diamonds,Draw,1:1
+032ae1be-3b24-4ce4-b995-e562aa50e847,7,2023-04-23T10:30:00Z,Kasimpasa Istanbul,Konyaspor,Away,1:2
+032ae1be-3b24-4ce4-b995-e562aa50e847,8,2023-04-23T12:30:00Z,PSV Eindhoven,Ajax Amsterdam,Home,3:0
+032ae1be-3b24-4ce4-b995-e562aa50e847,9,2023-04-23T13:00:00Z,AFC Bournemouth,West Ham United,Away,0:4
+032ae1be-3b24-4ce4-b995-e562aa50e847,10,2023-04-23T13:00:00Z,AC Ajaccio,Stade Brest 29,Draw,0:0
+032ae1be-3b24-4ce4-b995-e562aa50e847,11,2023-04-23T15:05:00Z,Montpellier HSC,Stade Rennes,Home,1:0
+032ae1be-3b24-4ce4-b995-e562aa50e847,12,2023-04-23T15:30:00Z,Brighton & Hove Albion,Manchester United,Draw,0:0
+032ae1be-3b24-4ce4-b995-e562aa50e847,13,2023-04-23T15:30:00Z,Bayer Leverkusen,RB Leipzig,Home,2:0
+032ae1be-3b24-4ce4-b995-e562aa50e847,14,2023-04-23T17:30:00Z,Borussia Monchengladbach,Union Berlin,Away,0:1
+032ae1be-3b24-4ce4-b995-e562aa50e847,15,2023-04-23T18:45:00Z,Juventus Turin,SSC Napoli,Away,0:1
+032ae1be-3b24-4ce4-b995-e562aa50e847,16,2023-04-23T18:45:00Z,Olympique Lyon,Olympique Marseille,Away,1:2
+032ae1be-3b24-4ce4-b995-e562aa50e847,17,2023-04-23T19:00:00Z,Sevilla FC,Villarreal CF,Home,2:1
+e41b5649-592a-463a-af91-0d8f4db9b830,1,2023-04-15T14:00:00Z,Wolverhampton Wanderers,Brentford FC,Home,2:0
+e41b5649-592a-463a-af91-0d8f4db9b830,2,2023-04-15T14:00:00Z,Chelsea FC,Brighton & Hove Albion,Away,1:2
+e41b5649-592a-463a-af91-0d8f4db9b830,3,2023-04-15T14:00:00Z,Southampton FC,Crystal Palace,Away,0:2
+e41b5649-592a-463a-af91-0d8f4db9b830,4,2023-04-15T14:00:00Z,KAS Eupen,SV Zulte Waregem,Away,1:5
+e41b5649-592a-463a-af91-0d8f4db9b830,5,2023-04-15T14:00:00Z,Blackpool,Wigan Athletic,Home,1:0
+e41b5649-592a-463a-af91-0d8f4db9b830,6,2023-04-15T14:00:00Z,Queens Park Rangers,Coventry City,Away,0:3
+e41b5649-592a-463a-af91-0d8f4db9b830,7,2023-04-15T14:00:00Z,Stoke City,West Bromwich Albion,Away,1:2
+e41b5649-592a-463a-af91-0d8f4db9b830,8,2023-04-15T14:30:00Z,Estoril Praia,Portimonense SC,Away,0:1
+e41b5649-592a-463a-af91-0d8f4db9b830,9,2023-04-15T15:00:00Z,Stade Rennes,Stade Reims,Home,3:0
+e41b5649-592a-463a-af91-0d8f4db9b830,10,2023-04-15T16:15:00Z,KV Oostende,Oud-Heverlee Leuven,Away,0:4
+e41b5649-592a-463a-af91-0d8f4db9b830,11,2023-04-15T19:00:00Z,Sparta Rotterdam,SC Heerenveen,Home,4:0
+e41b5649-592a-463a-af91-0d8f4db9b830,12,2023-04-15T19:00:00Z,America FC MG,Fluminense FC RJ,Away,0:3
+e41b5649-592a-463a-af91-0d8f4db9b830,13,2023-04-15T21:30:00Z,Botafogo FR RJ,Sao Paulo FC SP,Home,2:1
+e41b5649-592a-463a-af91-0d8f4db9b830,14,2023-04-16T00:30:00Z,Gimnasia Y Esgrima La Plata,CA Belgrano,Away,0:2
+e41b5649-592a-463a-af91-0d8f4db9b830,15,2023-04-16T16:30:00Z,Malaga CF,FC Cartagena,Home,1:0
+e41b5649-592a-463a-af91-0d8f4db9b830,16,2023-04-16T17:00:00Z,Union de Santa Fe,CA Tigre,Draw,0:0
+e41b5649-592a-463a-af91-0d8f4db9b830,17,2023-04-16T17:30:00Z,VfL Wolfsburg,Bayer Leverkusen,Draw,0:0
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,1,2023-04-08T14:00:00Z,Brentford FC,Newcastle United,Away,1:2
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,2,2023-04-08T14:00:00Z,Fulham FC,West Ham United,Away,0:1
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,3,2023-04-08T14:00:00Z,Tottenham Hotspur,Brighton & Hove Albion,Home,2:1
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,4,2023-04-08T14:30:00Z,Sampdoria Genoa,US Cremonese,Away,2:3
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,5,2023-04-08T16:30:00Z,Hellas Verona,Sassuolo Calcio,Home,2:1
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,6,2023-04-08T16:30:00Z,Torino FC,AS Roma,Away,0:1
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,7,2023-04-08T18:45:00Z,Lazio Rome,Juventus Turin,Home,2:1
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,8,2023-04-08T18:45:00Z,KAA Gent,Union Saint-Gilloise,Draw,1:1
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,9,2023-04-09T11:00:00Z,Olympique Lyon,Stade Rennes,Home,3:1
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,10,2023-04-09T12:00:00Z,Real Valladolid,RCD Mallorca,Draw,3:3
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,11,2023-04-09T13:00:00Z,AC Ajaccio,AJ Auxerre,Away,0:3
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,12,2023-04-09T13:00:00Z,Montpellier HSC,Toulouse FC,Away,1:2
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,13,2023-04-09T13:00:00Z,ESTAC Troyes,Clermont Foot 63,Away,0:2
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,14,2023-04-09T13:30:00Z,Borussia Monchengladbach,VfL Wolfsburg,Home,2:0
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,15,2023-04-09T15:30:00Z,Liverpool FC,Arsenal FC,Draw,2:2
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,16,2023-04-09T15:30:00Z,VfL Bochum,VfB Stuttgart,Away,2:3
+60cf2c6f-713e-4640-8054-b00f1e7f31d2,17,2023-04-09T16:30:00Z,UD Almeria,Valencia CF,Home,2:1
+02b515d0-e190-4323-bb11-48b9c1336d53,1,2023-04-01T14:00:00Z,Crystal Palace,Leicester City,Home,2:1
+02b515d0-e190-4323-bb11-48b9c1336d53,2,2023-04-01T14:00:00Z,AFC Bournemouth,Fulham FC,Home,2:1
+02b515d0-e190-4323-bb11-48b9c1336d53,3,2023-04-01T14:00:00Z,Nottingham Forest,Wolverhampton Wanderers,Draw,1:1
+02b515d0-e190-4323-bb11-48b9c1336d53,4,2023-04-01T16:30:00Z,Cadiz CF,Sevilla FC,Away,0:2
+02b515d0-e190-4323-bb11-48b9c1336d53,5,2023-04-01T18:00:00Z,SC Cambuur,FC Emmen,Away,1:2
+02b515d0-e190-4323-bb11-48b9c1336d53,6,2023-04-01T19:00:00Z,Stade Rennes,RC Lens,Away,0:1
+02b515d0-e190-4323-bb11-48b9c1336d53,7,2023-04-01T19:00:00Z,RKC Waalwijk,Vitesse Arnhem,Home,1:0
+02b515d0-e190-4323-bb11-48b9c1336d53,8,2023-04-02T10:30:00Z,Umraniyespor,Konyaspor,Draw,2:2
+02b515d0-e190-4323-bb11-48b9c1336d53,9,2023-04-02T10:30:00Z,Bologna FC,Udinese Calcio,Home,3:0
+02b515d0-e190-4323-bb11-48b9c1336d53,10,2023-04-02T12:15:00Z,Grasshopper Club Zurich,FC Lugano,Home,2:1
+02b515d0-e190-4323-bb11-48b9c1336d53,11,2023-04-02T13:00:00Z,FC Nantes,Stade Reims,Away,0:3
+02b515d0-e190-4323-bb11-48b9c1336d53,12,2023-04-02T13:00:00Z,Stade Brest 29,Toulouse FC,Home,3:1
+02b515d0-e190-4323-bb11-48b9c1336d53,13,2023-04-02T13:00:00Z,Giresunspor,Alanyaspor,Draw,2:2
+02b515d0-e190-4323-bb11-48b9c1336d53,14,2023-04-02T14:30:00Z,Maritimo Madeira,Boavista Porto,Home,4:2
+02b515d0-e190-4323-bb11-48b9c1336d53,15,2023-04-02T15:30:00Z,Newcastle United,Manchester United,Home,2:0
+02b515d0-e190-4323-bb11-48b9c1336d53,16,2023-04-02T15:30:00Z,Werder Bremen,TSG Hoffenheim,Away,1:2
+02b515d0-e190-4323-bb11-48b9c1336d53,17,2023-04-02T16:30:00Z,Villarreal CF,Real Sociedad San Sebastian,Home,2:0
+853e5b78-57b9-46d8-8987-20c58109f40b,1,2023-05-27T16:00:00Z,ACF Fiorentina,AS Roma,Home,2:1
+853e5b78-57b9-46d8-8987-20c58109f40b,2,2023-05-27T17:00:00Z,Sevilla FC,Real Madrid,Away,1:2
+853e5b78-57b9-46d8-8987-20c58109f40b,3,2023-05-27T19:00:00Z,Montpellier HSC,OGC Nice,Away,2:3
+853e5b78-57b9-46d8-8987-20c58109f40b,4,2023-05-27T23:30:00Z,Orlando City SC,Atlanta United FC,Draw,1:1
+853e5b78-57b9-46d8-8987-20c58109f40b,5,2023-05-28T12:30:00Z,Carlisle United,Stockport County FC,Draw,1:1
+853e5b78-57b9-46d8-8987-20c58109f40b,6,2023-05-28T12:30:00Z,AZ Alkmaar,PSV Eindhoven,Away,1:2
+853e5b78-57b9-46d8-8987-20c58109f40b,7,2023-05-28T12:30:00Z,Fortuna Sittard,NEC Nijmegen,Draw,1:1
+853e5b78-57b9-46d8-8987-20c58109f40b,8,2023-05-28T13:00:00Z,AC Monza,US Lecce,Away,0:1
+853e5b78-57b9-46d8-8987-20c58109f40b,9,2023-05-28T14:15:00Z,Racing Santander,FC Cartagena,Home,3:1
+853e5b78-57b9-46d8-8987-20c58109f40b,10,2023-05-28T15:30:00Z,Aston Villa,Brighton & Hove Albion,Home,2:1
+853e5b78-57b9-46d8-8987-20c58109f40b,11,2023-05-28T15:30:00Z,Chelsea FC,Newcastle United,Draw,1:1
+853e5b78-57b9-46d8-8987-20c58109f40b,12,2023-05-28T15:30:00Z,Leeds United,Tottenham Hotspur,Away,1:4
+853e5b78-57b9-46d8-8987-20c58109f40b,13,2023-05-28T17:00:00Z,Girona FC,Real Betis Seville,Away,1:2
+853e5b78-57b9-46d8-8987-20c58109f40b,14,2023-05-28T17:00:00Z,Cadiz CF,RC Celta de Vigo,Home,1:0
+853e5b78-57b9-46d8-8987-20c58109f40b,15,2023-05-28T17:00:00Z,Getafe CF,CA Osasuna,Home,2:1
+853e5b78-57b9-46d8-8987-20c58109f40b,16,2023-05-28T18:45:00Z,Juventus Turin,AC Milan,Away,0:1
+853e5b78-57b9-46d8-8987-20c58109f40b,17,2023-05-28T19:00:00Z,SC Corinthians SP,Fluminense FC RJ,Home,2:0
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,1,2023-05-20T14:00:00Z,Fulham FC,Crystal Palace,Draw,2:2
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,2,2023-05-20T14:00:00Z,Wolverhampton Wanderers,Everton FC,Draw,1:1
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,3,2023-05-20T14:30:00Z,FC Arouca,GD Chaves,Home,1:0
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,4,2023-05-20T15:00:00Z,FC Nantes,Montpellier HSC,Away,0:3
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,5,2023-05-20T16:15:00Z,KVC Westerlo,Standard Liege,Home,3:0
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,6,2023-05-20T19:00:00Z,Lille OSC,Olympique Marseille,Home,2:1
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,7,2023-05-20T21:30:00Z,Botafogo FR RJ,Fluminense FC RJ,Home,1:0
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,8,2023-05-20T21:30:00Z,America FC MG,Fortaleza EC CE,Home,2:1
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,9,2023-05-21T11:30:00Z,Club Brugge,Royal Antwerp FC,Home,2:0
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,10,2023-05-21T12:30:00Z,SK Rapid Wien,LASK,Draw,1:1
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,11,2023-05-21T12:30:00Z,West Ham United,Leeds United,Home,3:1
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,12,2023-05-21T13:30:00Z,FSV Mainz,VfB Stuttgart,Away,1:4
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,13,2023-05-21T16:00:00Z,Adana Demirspor,Besiktas Istanbul,Away,1:4
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,14,2023-05-21T16:00:00Z,SSC Napoli,Inter Milano,Home,3:1
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,15,2023-05-21T16:30:00Z,KRC Genk,Union Saint-Gilloise,Draw,1:1
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,16,2023-05-21T18:30:00Z,CA Belgrano,CA Talleres de Cordoba,Draw,1:1
+9d80c07b-0b71-4a4f-a55f-10e93e5af2a5,17,2023-05-21T19:30:00Z,Sporting Lisbon,Benfica Lisbon,Draw,2:2
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,1,2023-05-13T14:00:00Z,Aston Villa,Tottenham Hotspur,Home,2:1
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,2,2023-05-13T14:00:00Z,Southampton FC,Fulham FC,Away,0:2
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,3,2023-05-13T14:30:00Z,FC Vizela,FC Famalicao,Draw,0:0
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,4,2023-05-13T16:15:00Z,Cercle Brugge,KAA Gent,Away,0:4
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,5,2023-05-13T16:30:00Z,Villarreal CF,Athletic Bilbao,Home,5:1
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,6,2023-05-13T16:30:00Z,Sunderland AFC,Luton Town,Home,2:1
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,7,2023-05-13T16:45:00Z,FC Volendam,Sparta Rotterdam,Home,2:1
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,8,2023-05-13T18:30:00Z,CA Independiente Avellaneda,CA Tigre,Home,2:1
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,9,2023-05-13T21:00:00Z,CA Banfield,CA San Lorenzo de Almagro,Away,1:2
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,10,2023-05-14T10:30:00Z,Hellas Verona,Torino FC,Away,0:1
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,11,2023-05-14T11:00:00Z,Coventry City,Middlesbrough FC,Draw,0:0
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,12,2023-05-14T12:00:00Z,RC Celta de Vigo,Valencia CF,Away,1:2
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,13,2023-05-14T13:30:00Z,VfB Stuttgart,Bayer Leverkusen,Draw,1:1
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,14,2023-05-14T14:30:00Z,Rio Ave FC,Vitoria SC Guimaraes,Away,0:1
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,15,2023-05-14T15:05:00Z,AS Monaco,Lille OSC,Draw,0:0
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,16,2023-05-14T16:00:00Z,Bologna FC,AS Roma,Draw,0:0
+f4d3dd76-04fc-4e2f-931a-52e7baf82481,17,2023-05-14T17:00:00Z,Defensa y Justicia,Estudiantes de La Plata,Draw,1:1
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,1,2023-05-06T14:00:00Z,Wolverhampton Wanderers,Aston Villa,Home,1:0
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,2,2023-05-06T15:00:00Z,OGC Nice,Stade Rennes,Home,2:1
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,3,2023-05-06T16:00:00Z,AS Roma,Inter Milano,Away,0:2
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,4,2023-05-06T18:45:00Z,US Cremonese,Spezia Calcio,Home,2:0
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,5,2023-05-06T19:00:00Z,RC Lens,Olympique Marseille,Home,2:1
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,6,2023-05-06T21:00:00Z,CA Belgrano,Atletico Tucuman,Home,1:0
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,7,2023-05-06T23:30:00Z,San Jose Earthquakes,Los Angeles FC,Home,2:1
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,8,2023-05-06T23:30:00Z,Charlotte FC,New York City FC,Home,3:2
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,9,2023-05-06T23:30:00Z,Inter Miami CF,Atlanta United FC,Home,2:1
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,10,2023-05-07T10:30:00Z,Umraniyespor,Sivasspor,Home,4:1
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,11,2023-05-07T10:30:00Z,Atalanta BC,Juventus Turin,Away,0:2
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,12,2023-05-07T13:00:00Z,FC Lorient,Stade Brest 29,Home,2:1
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,13,2023-05-07T13:00:00Z,FC Nantes,Strasbourg Alsace,Away,0:2
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,14,2023-05-07T13:00:00Z,AJ Auxerre,Clermont Foot 63,Draw,1:1
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,15,2023-05-07T14:30:00Z,Maritimo Madeira,Rio Ave FC,Draw,2:2
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,16,2023-05-07T15:30:00Z,Newcastle United,Arsenal FC,Away,0:2
+29461a7b-92e1-4ac2-b25d-75eaa8cd1c9a,17,2023-05-07T17:00:00Z,Vitoria SC Guimaraes,FC Vizela,Home,3:0
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,1,2023-06-24T16:00:00Z,Viking FK,SK Brann,Home,3:1
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,2,2023-06-24T17:00:00Z,KR Reykjavik,KA Akureyri,Home,2:0
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,3,2023-06-24T20:00:00Z,Union de Santa Fe,CA Independiente Avellaneda,Home,3:0
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,4,2023-06-24T20:00:00Z,Chapecoense SC,Criciuma EC SC,Draw,1:1
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,5,2023-06-24T21:15:00Z,Tombense FC MG,Gremio Novorizontino SP,Away,1:2
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,6,2023-06-24T21:30:00Z,Fortaleza EC CE,Atletico Mineiro MG,Home,2:1
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,7,2023-06-24T23:00:00Z,Atletico Lanus,CA Talleres de Cordoba,Home,2:1
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,8,2023-06-24T23:00:00Z,Hartford Athletic,Indy Eleven,Away,0:2
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,9,2023-06-24T23:30:00Z,DC United,FC Cincinnati,Home,3:0
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,10,2023-06-25T01:30:00Z,Real Salt Lake,Minnesota United FC,Draw,2:2
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,11,2023-06-25T07:30:00Z,Incheon United FC,Pohang Steelers FC,Away,0:1
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,12,2023-06-25T09:30:00Z,Gimpo FC,Jeonnam Dragons,Away,1:2
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,13,2023-06-25T10:00:00Z,Suwon FC,Gangwon FC,Draw,1:1
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,14,2023-06-25T13:00:00Z,Moss FK,Kongsvinger IL Fotball,Away,0:1
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,15,2023-06-25T15:00:00Z,Hamarkameratene,Odds BK,Away,0:1
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,16,2023-06-25T18:30:00Z,Arsenal de Sarandi,CA Platense,Away,0:2
+63c4ca85-f63f-4355-9c8d-b34f1d4e84a5,17,2023-06-25T18:30:00Z,Sampaio Correa FC MA,Ceara SC CE,Draw,1:1
+af2742c5-c1ae-45a7-a7c2-28734275adf4,1,2023-06-17T16:00:00Z,Botswana,Libya,Home,1:0
+af2742c5-c1ae-45a7-a7c2-28734275adf4,2,2023-06-17T22:00:00Z,Deportivo Moron,Agropecuario Argentino,Home,2:1
+af2742c5-c1ae-45a7-a7c2-28734275adf4,3,2023-06-17T18:00:00Z,Tristan Suarez,Atletico de Rafaela,Draw,0:0
+af2742c5-c1ae-45a7-a7c2-28734275adf4,4,2023-06-17T18:45:00Z,Iceland,Slovakia,Away,1:2
+af2742c5-c1ae-45a7-a7c2-28734275adf4,5,2023-06-17T19:00:00Z,Levante UD,Deportivo Alaves,Draw,0:0
+af2742c5-c1ae-45a7-a7c2-28734275adf4,6,2023-06-17T23:00:00Z,Hartford Athletic,Charleston Battery,Away,3:4
+af2742c5-c1ae-45a7-a7c2-28734275adf4,7,2023-06-18T01:00:00Z,Aguilas Doradas Rionegro,CD Alianza Petrolera,Draw,1:1
+af2742c5-c1ae-45a7-a7c2-28734275adf4,8,2023-06-18T02:30:00Z,Guyana,Grenada,Draw,1:1
+af2742c5-c1ae-45a7-a7c2-28734275adf4,9,2023-06-18T02:30:00Z,Phoenix Rising FC,Louisville City FC,Draw,2:2
+af2742c5-c1ae-45a7-a7c2-28734275adf4,10,2023-06-18T07:00:00Z,Iwaki FC,JEF United Ichihara Chiba,Draw,0:0
+af2742c5-c1ae-45a7-a7c2-28734275adf4,11,2023-06-18T09:00:00Z,Nagoya Grampus,Sanfrecce Hiroshima,Home,2:1
+af2742c5-c1ae-45a7-a7c2-28734275adf4,12,2023-06-18T09:00:00Z,Kashiwa Reysol,Avispa Fukuoka,Away,0:1
+af2742c5-c1ae-45a7-a7c2-28734275adf4,13,2023-06-18T09:00:00Z,Kyoto Sanga FC,FC Tokyo,Away,1:3
+af2742c5-c1ae-45a7-a7c2-28734275adf4,14,2023-06-18T13:00:00Z,Rwanda,Mozambique,Away,0:2
+af2742c5-c1ae-45a7-a7c2-28734275adf4,15,2023-06-18T13:00:00Z,Tanzania,Niger,Home,1:0
+af2742c5-c1ae-45a7-a7c2-28734275adf4,16,2023-06-18T16:00:00Z,Cape Verde,Burkina Faso,Home,3:1
+af2742c5-c1ae-45a7-a7c2-28734275adf4,17,2023-06-18T16:00:00Z,Congo,Mali,Away,0:2
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,1,2023-06-10T19:00:00Z,Coritiba FC PR,Santos FC SP,Draw,0:0
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,2,2023-06-10T22:00:00Z,CA Platense,CA Tigre,Home,1:0
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,3,2023-06-10T21:30:00Z,EC Bahia BA,Cruzeiro EC MG,Draw,2:2
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,4,2023-06-11T09:00:00Z,Omiya Ardija,Fujieda MYFC,Away,2:3
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,5,2023-06-11T09:00:00Z,Gamba Osaka,FC Tokyo,Home,3:1
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,6,2023-06-11T10:00:00Z,Kawasaki Frontale,Sanfrecce Hiroshima,Home,1:0
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,7,2023-06-11T10:00:00Z,Fagiano Okayama,Tokyo Verdy,Away,1:2
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,8,2023-06-11T11:00:00Z,AFC Eskilstuna,Helsingborgs IF,Away,0:1
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,9,2023-06-11T13:00:00Z,Ostersunds FK,Orgryte IS,Home,2:1
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,10,2023-06-11T13:00:00Z,Skeid Fotball,KFUM Oslo,Away,0:4
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,11,2023-06-11T14:00:00Z,America FC MG,CA Paranaense PR,Draw,2:2
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,12,2023-06-11T14:00:00Z,AA Ponte Preta SP,SC Recife PE,Draw,1:1
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,13,2023-06-11T14:00:00Z,Londrina EC PR,Mirassol FC SP,Away,1:2
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,14,2023-06-11T15:00:00Z,Stabaek IF,Rosenborg BK,Draw,2:2
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,15,2023-06-11T15:00:00Z,Aalesunds FK,Tromsoe IL,Away,2:3
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,16,2023-06-11T18:45:00Z,Spezia Calcio,Hellas Verona,Away,1:3
+31b6a610-395f-4cf1-bac5-548f7f3f5cd1,17,2023-06-11T19:00:00Z,Sao Paulo FC SP,SE Palmeiras SP,Away,0:2
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,1,2023-06-04T13:00:00Z,KFUM Oslo,Kristiansund BK,Home,2:0
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,2,2023-06-04T13:00:00Z,Raufoss IL,Fredrikstad FK,Draw,1:1
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,3,2023-06-04T13:00:00Z,Skeid Fotball,Bryne FK,Home,2:0
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,4,2023-06-04T13:00:00Z,AIK,Kalmar FF,Draw,1:1
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,5,2023-06-04T15:00:00Z,FC Nordsjaelland,Viborg FF,Draw,0:0
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,6,2023-06-04T15:00:00Z,Sandefjord Fotball,Odds BK,Home,4:1
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,7,2023-06-04T15:00:00Z,Tromsoe IL,Sarpsborg 08,Home,2:1
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,8,2023-06-04T15:30:00Z,Plaza Colonia,Cerro Largo FC,Draw,3:3
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,9,2023-06-04T16:30:00Z,KRC Genk,Royal Antwerp FC,Draw,2:2
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,10,2023-06-04T16:30:00Z,RCD Mallorca,Rayo Vallecano,Home,3:0
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,11,2023-06-04T16:30:00Z,Villarreal CF,Atletico Madrid,Draw,2:2
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,12,2023-06-04T17:15:00Z,Viking FK,Molde FK,Away,3:4
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,13,2023-06-04T19:00:00Z,Real Betis Seville,Valencia CF,Draw,1:1
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,14,2023-06-04T19:00:00Z,RC Celta de Vigo,FC Barcelona,Home,2:1
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,15,2023-06-04T19:00:00Z,Elche CF,Cadiz CF,Draw,1:1
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,16,2023-06-04T19:00:00Z,Espanyol Barcelona,UD Almeria,Draw,3:3
+0bb5af7a-95e3-47cd-a067-ba2bb52dbef2,17,2023-06-04T19:00:00Z,US Lecce,Bologna FC,Away,2:3
